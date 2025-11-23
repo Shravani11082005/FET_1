@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+plotly
+pillow
+pytesseract
+reportlab
+joblib
+scikit-learn
+openpyxl
+requests
+graphviz
